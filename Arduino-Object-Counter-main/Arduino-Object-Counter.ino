@@ -1,5 +1,4 @@
 //Digital Object Counter
-
 #include <LiquidCrystal_I2C.h>
 
 LiquidCrystal_I2C lcd(0x3F, 16, 2);
