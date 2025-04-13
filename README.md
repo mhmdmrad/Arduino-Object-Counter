@@ -1,4 +1,5 @@
-# Arduino Digital Object Counter – README  
+# DONE
+# Arduino Digital Object Counter 
 
 ## Project Overview  
 This is an Arduino-based **Digital Object Counter** that counts objects passing in front of an IR sensor.  
