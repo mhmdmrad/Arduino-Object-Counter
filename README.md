@@ -1,4 +1,4 @@
-# DONE
+
 # Arduino Digital Object Counter 
 
 ## Project Overview  
